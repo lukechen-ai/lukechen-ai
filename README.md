@@ -12,8 +12,8 @@ Product Manager & Startup Founder. Building AI-powered products and open-source 
 
 ## 🔥 Featured Project
 
-### 🤖 ITX Immune Expert
-> AI-powered PubMed literature system for immune medical research
+### 🤖 immune-rag
+> AI-powered PubMed Literature RAG System for immune medical research
 
 A complete pipeline from **PubMed batch download → filtering → knowledge base → LLM-powered Q&A**
 
@@ -24,7 +24,7 @@ A complete pipeline from **PubMed batch download → filtering → knowledge bas
 **Tech Stack:** Python · DeepSeek · Qwen Embedding · SQLite · Flask
 
 <p align="center">
-  <a href="https://github.com/lukechen-ai/ITX-immune-expert">📂 View Project →</a>
+  <a href="https://github.com/lukechen-ai/immune-rag">📂 View Project →</a>
 </p>
 
 ---
@@ -33,7 +33,7 @@ A complete pipeline from **PubMed batch download → filtering → knowledge bas
 
 | Project | Description |
 |---------|-------------|
-| 🤖 [ITX-immune-expert](https://github.com/lukechen-ai/ITX-immune-expert) | PubMed + LLM knowledge base for immune research |
+| 🤖 [immune-rag](https://github.com/lukechen-ai/immune-rag) | PubMed + LLM knowledge base for immune research |
 | 🛒 [xhs-agent](https://github.com/lukechen-ai/xhs-agent) | Xiaohongshu automated marketing digital employee |
 
 ---
@@ -92,9 +92,9 @@ Open to conversations about:
 
 ## 🔥 旗舰项目
 
-### 🤖 ITX 免疫小专家
+### 🤖 immune-rag
 
-> AI 驱动的 PubMed 免疫医学文献系统
+> AI 驱动的 PubMed 免疫医学文献 RAG 系统
 
 完整 pipeline：**PubMed 批量下载 → 筛选 → 知识库 → LLM 智能问答**
 
@@ -110,7 +110,7 @@ Open to conversations about:
 
 | 项目 | 描述 |
 |------|------|
-| 🤖 [ITX-immune-expert](https://github.com/lukechen-ai/ITX-immune-expert) | PubMed + LLM 免疫医学知识库 |
+| 🤖 [immune-rag](https://github.com/lukechen-ai/immune-rag) | PubMed + LLM 免疫医学知识库 |
 | 🛒 [xhs-agent](https://github.com/lukechen-ai/xhs-agent) | 小红书自动化营销数字员工 |
 
 ---
