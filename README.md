@@ -2,7 +2,7 @@
 
 **AI Product Founder · Building with LLMs · Indie Maker**
 
-Product Manager & Startup Founder. Building AI-powered products and open-source tools in medical AI, marketing automation, and productivity.
+Product Manager & Startup Founder. Building AI-powered products and open-source tools in medical AI and marketing automation.
 
 <p align="center">
   <a href="mailto:luchichen000@gmail.com">📫 luchichen000@gmail.com</a>
@@ -12,7 +12,7 @@ Product Manager & Startup Founder. Building AI-powered products and open-source 
 
 ## 🔥 Featured Project
 
-### 🤖 Immune Expert
+### 🤖 ITX Immune Expert
 > AI-powered PubMed literature system for immune medical research
 
 A complete pipeline from **PubMed batch download → filtering → knowledge base → LLM-powered Q&A**
@@ -24,7 +24,7 @@ A complete pipeline from **PubMed batch download → filtering → knowledge bas
 **Tech Stack:** Python · DeepSeek · Qwen Embedding · SQLite · Flask
 
 <p align="center">
-  <a href="https://github.com/lukechen-ai/immune-expert">📂 View Project →</a>
+  <a href="https://github.com/lukechen-ai/ITX-immune-expert">📂 View Project →</a>
 </p>
 
 ---
@@ -33,9 +33,8 @@ A complete pipeline from **PubMed batch download → filtering → knowledge bas
 
 | Project | Description |
 |---------|-------------|
-| 🤖 [immune-expert](https://github.com/lukechen-ai/immune-expert) | PubMed + LLM knowledge base for immune research |
+| 🤖 [ITX-immune-expert](https://github.com/lukechen-ai/ITX-immune-expert) | PubMed + LLM knowledge base for immune research |
 | 🛒 [xhs-agent](https://github.com/lukechen-ai/xhs-agent) | Xiaohongshu automated marketing digital employee |
-| 🔍 [market-hunter](https://github.com/lukechen-ai/market-hunter) | Discover niche market opportunities & build AI tools fast |
 
 ---
 
@@ -83,7 +82,7 @@ Open to conversations about:
 
 **AI 创始人 · LLM 应用实践者 · 独立开发者**
 
-产品经理 / 创业公司创始人。专注医学 AI、营销自动化、效率工具领域的 AI 产品与开源工具落地。
+产品经理 / 创业公司创始人。专注医学 AI、营销自动化领域的 AI 产品与开源工具落地。
 
 <p align="center">
   <a href="mailto:luchichen000@gmail.com">📫 luchichen000@gmail.com</a>
@@ -93,7 +92,7 @@ Open to conversations about:
 
 ## 🔥 旗舰项目
 
-### 🤖 免疫小专家
+### 🤖 ITX 免疫小专家
 
 > AI 驱动的 PubMed 免疫医学文献系统
 
@@ -111,9 +110,8 @@ Open to conversations about:
 
 | 项目 | 描述 |
 |------|------|
-| 🤖 [immune-expert](https://github.com/lukechen-ai/immune-expert) | PubMed + LLM 免疫医学知识库 |
+| 🤖 [ITX-immune-expert](https://github.com/lukechen-ai/ITX-immune-expert) | PubMed + LLM 免疫医学知识库 |
 | 🛒 [xhs-agent](https://github.com/lukechen-ai/xhs-agent) | 小红书自动化营销数字员工 |
-| 🔍 [market-hunter](https://github.com/lukechen-ai/market-hunter) | 发现小而美需求，快速落地 AI 工具 |
 
 ---
 
