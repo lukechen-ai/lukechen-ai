@@ -34,6 +34,7 @@ A complete pipeline from **PubMed batch download → filtering → knowledge bas
 | Project | Description |
 |---------|-------------|
 | 🤖 [immune-rag](https://github.com/lukechen-ai/immune-rag) | PubMed + LLM knowledge base for immune research |
+| 🛠️ [claude-code-toolkit](https://github.com/lukechen-ai/claude-code-toolkit) | Claude Code enhancement toolkit |
 | 🛒 [xhs-agent](https://github.com/lukechen-ai/xhs-agent) | Xiaohongshu automated marketing digital employee |
 
 ---
@@ -111,6 +112,7 @@ Open to conversations about:
 | 项目 | 描述 |
 |------|------|
 | 🤖 [immune-rag](https://github.com/lukechen-ai/immune-rag) | PubMed + LLM 免疫医学知识库 |
+| 🛠️ [claude-code-toolkit](https://github.com/lukechen-ai/claude-code-toolkit) | Claude Code 增强工具包 |
 | 🛒 [xhs-agent](https://github.com/lukechen-ai/xhs-agent) | 小红书自动化营销数字员工 |
 
 ---
